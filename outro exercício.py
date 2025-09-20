@@ -1,8 +1,9 @@
+#teste
 # Programa de dizer olá mundo!
 
 print(f"Olá, mundo!")
 
-#Programa de soma
+#Programa de somaem
 numero1 = 12
 numero2 = 14
 soma = numero1 + numero2
